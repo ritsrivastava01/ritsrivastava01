@@ -1,4 +1,4 @@
-I'm Ritesh, a Front-End Team Lead with a passion for leading and mentoring developers to create visually stunning and user-friendly web applications. With over 15+ years of experience in the industry, I have developed expertise in HTML, CSS, and JavaScript.
+I'm Ritesh, a Front-End Lead with a passion for leading and mentoring developers to create visually stunning and user-friendly web applications. With over 15+ years of experience in the industry, I have developed expertise in HTML, CSS, and JavaScript.
 
 As a team lead, I prioritize communication and collaboration among team members to ensure the successful delivery of projects. I am skilled in project management, sprint planning, and code reviews.
 
