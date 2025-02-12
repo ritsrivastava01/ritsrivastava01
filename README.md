@@ -22,7 +22,7 @@ I thrive on tackling new challenges and continuously improving my skills to stay
 <p>These are some of the technologies I'm experienced with and enjoy working with.  I've used them in various projects, and I'm always eager to learn more.</p>
 
 <p >
-  <img src="assets/nextJS.svg" width="50px" height="40px" alt="Next.js"/>
+  <img src="assets/next.png" width="40px"  alt="Next.js"/>
   <img src="assets/azure.svg" width="50px" height="40px" alt="Microsoft Azure"/>
   <img src="assets/canva.svg" width="50px" height="40px" alt="Canva"/>
   <img src="assets/docker.svg" width="50px" height="40px" alt="Docker"/>
